@@ -1,3 +1,7 @@
 oooooooooo
+<<<<<< HEAD
 modified in first
 again
+=======
+modified in second
+>>>>>>> second
