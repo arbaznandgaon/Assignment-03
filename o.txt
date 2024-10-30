@@ -1,2 +1,6 @@
 oooooooooo
+< HEAD
 modified in second
+=======
+adding one more commit
+>>>>>>> 9e47e72458c8af057fad2c302c57e07dce417c90
